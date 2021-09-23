@@ -1,0 +1,47 @@
+.click-now{
+    background-color: #dc3545;
+}
+.container{
+    margin-bottom: 100px;
+}
+.bg-orange{
+    background-color: #feeaea;
+}
+.carousel-item{
+    padding: 10px 30px;
+   
+}
+.cat1{
+    background-image: linear-gradient(190deg, yellow, orange)
+}
+.cat2{
+    background-image: linear-gradient(180deg, blue, green);
+}
+.cat3{
+    background-image: linear-gradient(200deg, indianred, wheat);
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    
+}
+.categories img{
+    width: 100px;
+}
+.categories h2{
+    color: white;
+}
+.card-footer {
+    background-color: white;
+    border: none;
+}
+.col{
+    border: none;
+    box-shadow: 5x 5x 10px;
+}
+#subscribe{
+    height: 300px;
+    background-color:  #feeaea;;
+}
+footer{
+    text-align: center;
+}
